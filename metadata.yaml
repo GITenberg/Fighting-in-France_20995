@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '286'
     url: http://www.gutenberg.org/2009/agents/286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20995#Fighting-in-France
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-04-05'
 gutenberg_type: Text
